@@ -1,7 +1,6 @@
 {
   "version": "1.0.2",
-  "size": 350000,
-  "description": "Valid ESP8266 OTA Firmware",
-  "board": "NodeMCU 1.0",
-  "flash_size": "4MB"
+  "size": 276048,
+  "md5": "d41d8cd98f00b204e9800998ecf8427e",
+  "description": "Fixed MD5 issue"
 }
