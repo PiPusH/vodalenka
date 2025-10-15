@@ -1,8 +1,8 @@
 {
   "version": "1.0.2",
   "build_date": "2025-01-15",
-  "size": 500368,
-  "md5": "361bb7a64b6ab2e97202df28bdababff",
+  "size": 419440,
+  "md5": "600fdab31d940c61bea845050d94b5db",
   "description": "ESP8266 OTA Update",
   "changelog": [
     "Fixed WiFi connection issues",
